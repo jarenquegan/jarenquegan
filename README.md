@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm Jaren Quegan, a passionate developer always ea
 ### My Skills
 - **Languages:** JavaScript, Python, Java, Dart
 - **Frameworks:** React, Node.js, Express, Flutter
-- **Tools:** Git, Docker, Kubernetes
-- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools:** Git, Colab
+- **Databases:** MySQL, PostgreSQL, Cloud Firestore
 
 ### GitHub Stats
 ![Jaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenquegan&show_icons=true&theme=radical)
