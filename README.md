@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Jaren Quegan, a passionate developer always ea
 - 📱 **Ckure:** A mobile app thesis that detects car damage and estimates the total cost of the damaged parts on Nissan vehicles using Flutter, Dart, and YOLOv8.
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarenquegan)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jarenquegan)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/jarenquegan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jarenquegan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jarenquegan)
