@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm Jaren Quegan, a passionate developer always ea
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 🤔 I’m looking for help with mastering cloud technologies.
 - 💬 Ask me about any tech-related topics.
-- 📫 How to reach me: [Email](mailto:queganjaren@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jarenquegan)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning new things and exploring new places.
 
