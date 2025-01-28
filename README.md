@@ -15,15 +15,6 @@ Welcome to my GitHub profile! I'm Jaren Quegan, a passionate developer always ea
 ### Current Project
 - 📱 **Ckure:** A mobile app thesis that detects car damage and estimates the total cost of the damaged parts on Nissan vehicles using Flutter, Dart, and YOLOv8.
 
-### My Skills
-- **Languages:** JavaScript, Python, Java, Dart
-- **Frameworks:** React, Node.js, Express, Flutter
-- **Tools:** Git, Colab
-- **Databases:** MySQL, PostgreSQL, Cloud Firestore
-
-### GitHub Stats
-![Jaren's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarenquegan&show_icons=true&theme=radical)
-
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jarenquegan&layout=compact&theme=radical)
 
