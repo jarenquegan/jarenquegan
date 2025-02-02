@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 Welcome to my GitHub profile! I'm Jaren Quegan, a passionate developer always eager to learn and collaborate.
 
