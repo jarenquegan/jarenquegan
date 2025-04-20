@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm Jaren Quegan, a passionate developer always ea
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jarenquegan)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/jarenquegan)
 
+P.s. Sorry most of my school projects are private.
 <!--
 **jarenquegan/jarenquegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
